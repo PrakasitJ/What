@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+.poster {
+    width: 57rem;
+    margin-left: 30rem;
+    margin-top: 10rem;
+    
+    color:white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+.weeb-image {
+    border: 5px solid white;
+    width:100%
+}
+
+h1 {
+    font-size: 3rem;
+    text-transform: uppercase;
+}
